@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string-array name="names">
+        <item>Femme 1</item>
+        <item>Femme 2</item>
+        <item>Femme 3</item>
+        <item>Homme 1</item>
+        <item>Homme 2</item>
+        <item>Homme 3</item>
+    </string-array>
+
+
+    <string-array name="emails">
+        <item>Femme1@gmail.com</item>
+        <item>Femme2@gmail.com</item>
+        <item>Femme3@gmail.com</item>
+        <item>Homme1@gmail.com</item>
+        <item>Homme2@gmail.com</item>
+        <item>Homme3@gmail.com</item>
+    </string-array>
+
+
+</resources>
